@@ -111,8 +111,15 @@ This project answers three central questions:
 ---
 
 ## 🖼️ Report Preview
-!Opening
-``
+![Opening](images/Opening.png)
+
+![Welcome](images/Welcome.png)
+
+![Time](images/Time.png)
+
+![Geography](images/Geography.png)
+
+![Product](images/Product.png)
 
 ---
 
