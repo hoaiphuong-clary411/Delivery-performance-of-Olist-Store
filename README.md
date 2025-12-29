@@ -19,8 +19,7 @@ The report is designed as a tactical decision‑support tool for operations mana
 Olist is a marketplace platform connecting SMBs across Brazil with customers nationwide.  
 Between 2016 and 2018, rapid customer acquisition created delivery‑pressure spikes that resulted in:
 - Increased late‑delivery rate  
-- Reduced customer satisfaction  
-- Regional performance inconsistencies  
+- Regional delivery performance inconsistencies  
 
 This project answers three central questions:
 1. **What happened?**  
@@ -78,10 +77,10 @@ This project answers three central questions:
 ### Time
 - Late deliveries peaked during weekends & the rainfall season (Nov–May).  
 - April 2018 recorded the highest late‑delivery rate despite high demand.  
-- Operational delays strongly correlate with revenue spikes.
+- Delivery delays strongly correlate with revenue spikes.
 
 ### Geography
-- 0–1k km routes generate **80.46% of revenue** but show the highest late‑day ratios of 40.14%.  
+- 0–1k km routes generate **80.46% of revenue** but show the **highest late‑day ratios of 40.14%**.  
 - Coastal cities demonstrate higher weather‑related disruption risk.  
 - Three states (São Paulo, Rio de Janeiro, Minas Gerais) contribute **62.74% of total revenue** with **a late-delivery rate of around 7.69%**.
 
@@ -95,16 +94,16 @@ This project answers three central questions:
 
 ## 🚀 Recommendations
 
-### Customer Experience
+### Regarding customer
 - Provide flexible delivery window options  
 - Enable proactive notifications during peak weather months  
 
-### Internal Operations
-- Enhance ETA forecasting with weather data  
-- Reallocate labor during seasonal spikes  
-- Optimize warehouse flow for short‑distance deliveries  
+### Regarding Internal Operations
+- Enhance ETA forecasting with weather data   
 
-### Logistics Partners
+### Regarding Logistics Partners
+- Reallocate labor during seasonal spikes  
+- Optimize warehouse flow for short‑distance deliveries 
 - Prioritize top‑3 revenue states with capacity allocation  
 - Implement performance scorecards for partners  
 - Assign dedicated trucks for bulky / high‑volumetric shipments  
@@ -128,8 +127,8 @@ The full Power BI report (.pbix) is available under **GitHub Releases**:
 ## 👩‍💻 About Me
 **Nguyễn Hoài Phương** — Data Analyst 
 - Power BI · DAX · Data Modeling  
-- Excel & VBA Automation  
-- Supply Chain & Logistics Analytics  
+- Excel & VBA Automation
+- Advanced SQL
 
 📫 Contact  
 - Email: hoaiphuong411hp@gmail.com 
