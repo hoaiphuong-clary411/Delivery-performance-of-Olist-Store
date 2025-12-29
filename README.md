@@ -47,7 +47,7 @@ This project answers three central questions:
 ## 🧱 Data Modeling Architecture (Galaxy Schema)
 
 ### Entity‑Relationship Diagram
-*(Replace the image path with your actual folder name — for example: images/er_diagram.png)*
+![DataModel](images/DataModel.png)
 
 ---
 
