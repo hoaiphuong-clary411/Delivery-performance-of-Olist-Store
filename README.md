@@ -1,13 +1,13 @@
 # 📦 Delivery Performance Analytics — Olist Store
-*A tactical analytics solution delivering root‑cause insights into delivery failures across time, geography, and product segments using Power BI and a Galaxy Schema data model.*
+*An analytics solution delivering root‑cause insights into delivery failures across time, geography, and product segments using Power BI and a Galaxy Schema data model.*
 
 ---
 
 ## 🔍 Executive Summary
-This project provides a comprehensive delivery performance assessment for Olist Store from 2016 to 2018.  
+This project provides a comprehensive assessment of delivery performance for Olist Store from 2016 to 2018.  
 The analysis identifies operational bottlenecks, quantifies the revenue impact of late deliveries, and provides data‑driven recommendations for optimizing logistics capacity.
 
-The dashboard is designed as a tactical decision‑support tool for operations managers and analysts, focusing on:
+The report is designed as a tactical decision‑support tool for operations managers and analysts, focusing on:
 - Performance anomalies  
 - Operational inefficiencies  
 - Risk concentration  
