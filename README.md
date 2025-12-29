@@ -53,37 +53,6 @@ This project answers three central questions:
 ### Entity‑Relationship Diagram
 *(Replace the image path with your actual folder name — for example: images/er_diagram.png)*
 
-flowchart LR
-  %% Olist Data Model (2016–2018)
-  subgraph Core
-    ORD[(olist_orders_dataset)]
-    OI[(olist_order_items_dataset)]
-    REV[(olist_order_reviews_dataset)]
-    PAY[(olist_order_payments_dataset)]
-  end
-
-  PROD[(olist_products_dataset)]
-  SELL[(olist_sellers_dataset)]
-  CUST[(olist_customers_dataset)]
-  GEO[(olist_geolocation_dataset)]
-
-  %% Relationships
-  ORD <-- order_id --> REV
-  ORD <-- order_id --> PAY
-  ORD <-- customer_id --> CUST
-
-  ORD -- order_id --> OI
-  OI -- product_id --> PROD
-  OI -- seller_id --> SELL
-
-  CUST -- zip_code_prefix --> GEO
-  SELL -- zip_code_prefix --> GEO
-
-  %% Styling (optional)
-  classDef table fill:#fff,stroke:#bbb,stroke-width:1px,color:#333;
-  class ORD,OI,REV,PAY,PROD,SELL,CUST,GEO table;
-
-
 ---
 
 ## 📊 Analytical Framework
