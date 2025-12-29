@@ -111,9 +111,8 @@ This project answers three central questions:
 ---
 
 ## 🖼️ Report Preview
-
-*images/1. Opening.png*
-
+!Opening
+``
 
 ---
 
