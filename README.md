@@ -17,7 +17,7 @@ The dashboard is designed as a tactical decision‑support tool for operations m
 
 ## 🧩 Business Context
 Olist is a marketplace platform connecting SMBs across Brazil with customers nationwide.  
-Between 2016–2018, rapid customer acquisition created delivery‑pressure spikes that resulted in:
+Between 2016 and 2018, rapid customer acquisition created delivery‑pressure spikes that resulted in:
 - Increased late‑delivery rate  
 - Reduced customer satisfaction  
 - Higher logistics costs  
@@ -34,8 +34,8 @@ This project answers three central questions:
 ## 📅 Dataset Overview
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Timeframe:** 2016–2018  
-- **Rows:** ~100,000 orders  
-- **Tables:** Customers, Sellers, Orders, Order Items, Products, Geolocation, Reviews
+- **Size:** ~100,000 orders  
+- **Tables:** Customers, Sellers, Orders Status, Order Items, Products, Geolocation
 
 
 ---
@@ -59,14 +59,14 @@ This project answers three central questions:
 ## 📊 Analytical Framework
 
 ### 1. Time Analysis
-- Delivery & late‑delivery trends  
+- Late‑delivery trends  
 - Seasonality insights (rainfall season, holidays, Black Friday)  
-- Weekend vs weekday differences  
+- Weekend and weekday differences  
 - Correlation between revenue surges & operational strain  
 
 ### 2. Geography Analysis
 - State‑level delivery performance  
-- Distance segmentation (0–1k km, 1–3k km, 3–7k km)  
+- Distance segmentation 
 - Coastal vs inland operational risks  
 - Weather‑driven & infrastructure‑driven patterns  
 
@@ -85,9 +85,9 @@ This project answers three central questions:
 - Operational delays strongly correlate with revenue spikes.
 
 ### Geography
-- 0–1k km routes generate **80.46% of revenue** but show highest late‑day ratios.  
+- 0–1k km routes generate **80.46% of revenue** but show the highest late‑day ratios of 40.14%.  
 - Coastal cities demonstrate higher weather‑related disruption risk.  
-- Three states (SP, RJ, MG) contribute **62.74% of total revenue**.
+- Three states (São Paulo, Rio de Janeiro, Minas Gerais) contribute **62.74% of total revenue** with **a late-delivery rate of around 7.69%**.
 
 ### Product
 - Higher volumetric weight → higher probability of late delivery.  
@@ -113,7 +113,7 @@ This project answers three central questions:
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Report Preview
 
 *(Upload your own images into `/images/` and replace file names)*
 
@@ -128,15 +128,10 @@ The full Power BI report (.pbix) is available under **GitHub Releases**:
 ---
 
 ## 👩‍💻 About Me
-**Nguyễn Phương Hoài** — Data Analyst / Supply Chain Analyst  
+**Nguyễn Hoài Phương** — Data Analyst 
 - Power BI · DAX · Data Modeling  
 - Excel & VBA Automation  
 - Supply Chain & Logistics Analytics  
 
 📫 Contact  
-- Email: _your email here_  
-- LinkedIn: _your linkedin link here_  
-
----
-
-⭐ *If you find this project helpful, please consider giving it a star!*
+- Email: hoaiphuong411hp@gmail.com 
