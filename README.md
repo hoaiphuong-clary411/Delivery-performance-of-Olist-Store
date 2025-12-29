@@ -4,7 +4,7 @@
 ---
 
 ## 🔍 Executive Summary
-This project provides a comprehensive delivery performance assessment for Olist Store (Brazil), leveraging a 100K‑order dataset (2016–2018).  
+This project provides a comprehensive delivery performance assessment for Olist Store from 2016 to 2018.  
 The analysis identifies operational bottlenecks, quantifies the revenue impact of late deliveries, and provides data‑driven recommendations for optimizing logistics capacity.
 
 The dashboard is designed as a tactical decision‑support tool for operations managers and analysts, focusing on:
@@ -20,7 +20,6 @@ Olist is a marketplace platform connecting SMBs across Brazil with customers nat
 Between 2016 and 2018, rapid customer acquisition created delivery‑pressure spikes that resulted in:
 - Increased late‑delivery rate  
 - Reduced customer satisfaction  
-- Higher logistics costs  
 - Regional performance inconsistencies  
 
 This project answers three central questions:
@@ -41,10 +40,8 @@ This project answers three central questions:
 ---
 
 ## 🛠️ Technical Stack
-- **Power BI** — Data modeling, DAX, dashboarding  
-- **Power Query** — ETL, transformation  
-- **Excel** — Exploratory analysis  
-- **DAX** — KPI measures & delivery logic  
+- **Power BI** — Data modeling, DAX, dashboard design
+- **Power Query** — ETL 
 
 ---
 
@@ -59,9 +56,9 @@ This project answers three central questions:
 
 ### 1. Time Analysis
 - Late‑delivery trends  
-- Seasonality insights (rainfall season, holidays, Black Friday)  
+- Seasonality insights (rainfall season, holidays, other sales promotion events)  
 - Weekend and weekday differences  
-- Correlation between revenue surges & operational strain  
+- Correlation between revenue surges & operational strain (defined by late-delivery orders and rate)
 
 ### 2. Geography Analysis
 - State‑level delivery performance  
@@ -79,7 +76,7 @@ This project answers three central questions:
 ## 💡 Key Insights
 
 ### Time
-- Late deliveries peaked during weekends & rainfall season (Nov–May).  
+- Late deliveries peaked during weekends & the rainfall season (Nov–May).  
 - April 2018 recorded the highest late‑delivery rate despite high demand.  
 - Operational delays strongly correlate with revenue spikes.
 
@@ -89,8 +86,10 @@ This project answers three central questions:
 - Three states (São Paulo, Rio de Janeiro, Minas Gerais) contribute **62.74% of total revenue** with **a late-delivery rate of around 7.69%**.
 
 ### Product
-- Higher volumetric weight → higher probability of late delivery.  
+- Higher volumetric weight leads to a higher late delivery rate.  
 - Two priority clusters identified for logistics optimization.
+    - Group 1 (Health Beauty, Watches Gifts, Bed Bath Table, Sports Leisure, Computers Accessories): **highest revenue** & **medium late-delivery rate (around 8.32%)**
+    - Top 3 of group 2 (Housewares, Furniture Decor, Auto): **second-highest revenue** & **medium late-delivery rate (around 8.32%)**
 
 ---
 
