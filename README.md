@@ -112,7 +112,7 @@ This project answers three central questions:
 
 ## 🖼️ Report Preview
 
-*(Upload your own images into `/images/` and replace file names)*
+*images/1. Opening.png*
 
 
 ---
