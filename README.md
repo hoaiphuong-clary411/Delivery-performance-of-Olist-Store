@@ -122,7 +122,7 @@ This project answers three central questions:
 ## 📥 Download PBIX File
 The full Power BI report (.pbix) is available under **GitHub Releases**:
 
-👉 sha256:f87a6138276640b879e78c394d96544a846afadf2b1d5e464b0ac60d427b0180
+👉 https://github.com/hoaiphuong-clary411/Delivery-performance-of-Olist-Store/releases
 
 ---
 
