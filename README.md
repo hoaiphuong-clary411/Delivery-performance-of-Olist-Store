@@ -81,7 +81,7 @@ This project answers three main questions:
 
 ### Geography
 - 0–1k km routes generate **80.46% of revenue** but show the **highest late‑day ratios of 40.14%**.  
-- Coastal cities demonstrate higher weather‑related disruption risk.  
+- Coastal cities demonstrate a higher late-delivery rate and order quantity.  
 - Three states (São Paulo, Rio de Janeiro, Minas Gerais) contribute **62.74% of total revenue** with **a late-delivery rate of around 7.69%**.
 
 ### Product
