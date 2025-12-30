@@ -16,12 +16,12 @@ The report is designed as a tactical decision‑support tool for operations mana
 ---
 
 ## 🧩 Business Context
-Olist is a marketplace platform connecting SMBs across Brazil with customers nationwide.  
+Olist is a marketplace platform connecting sellers across Brazil with buyers nationwide.  
 Between 2016 and 2018, rapid customer acquisition created delivery‑pressure spikes that resulted in:
 - Increased late‑delivery rate  
 - Regional delivery performance inconsistencies  
 
-This project answers three central questions:
+This project answers three main questions:
 1. **What happened?**  
 2. **Why did it happen?**  
 3. **What should Olist do next?**
@@ -39,8 +39,8 @@ This project answers three central questions:
 ---
 
 ## 🛠️ Technical Stack
-- **Power BI** — Data modeling, DAX, dashboard design
-- **Power Query** — ETL 
+- **Power BI** - Data modeling, DAX, dashboard design
+- **Power Query** - ETL 
 
 ---
 
