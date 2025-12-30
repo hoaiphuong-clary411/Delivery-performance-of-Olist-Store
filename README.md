@@ -111,7 +111,7 @@ This project answers three main questions:
 ---
 
 ## 🖼️ Report Preview
-👉 [Live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNjY3ZWFlNDYtNjlkYS00OGNiLWE4ZDgtMTgzNmQ5OGMzYmU3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D)
+👉 [Live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNjY3ZWFlNDYtNjlkYS00OGNiLWE4ZDgtMTgzNmQ5OGMzYmU3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true&pageName=e1cb589993fade16871c)
 
 ![Opening](images/Opening.png)
 
