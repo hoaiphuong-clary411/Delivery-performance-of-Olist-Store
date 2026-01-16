@@ -1,5 +1,5 @@
 # 📦 Delivery Performance Analytics — Olist Store
-*An analytics solution delivering root‑cause insights into delivery failures across time, geography, and product segments using Power BI and a Galaxy Schema data model.*
+*An analytics solution delivering insights into delivery failures across time, geography, and product segments using Power BI and a Galaxy Schema data model.*
 
 ---
 
