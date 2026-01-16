@@ -1,7 +1,7 @@
 
 ## Metrics
 
-| Metric | Definition |
+| Metric | Definition/ Calculation |
 |---|---|
 | **Purchased orders** | All orders that have a recorded **purchase timestamp**. |
 | **Delivered orders** | All orders that have a recorded **actual delivery date**. |
