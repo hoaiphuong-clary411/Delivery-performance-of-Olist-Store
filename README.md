@@ -73,7 +73,7 @@ This project answers three main questions:
 ---
 
 ## 💡 Key Insights
-
+💥💥💥**For more detailed analysis, check out all the insights boxes in the dashboards**💥💥💥
 ### Time
 - Late deliveries peaked during weekends & the rainfall season (Nov–May).  
 - April 2018 recorded the highest late‑delivery rate despite high demand.  
@@ -111,9 +111,10 @@ This project answers three main questions:
 ---
 
 ## 🖼️ Report Preview
+💥💥💥**For more detailed analysis, please read all instructions in the "Welcome" page of the report, follow and check out all the insights boxes in the dashboards**💥💥💥
+
 👉 [Live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNjY3ZWFlNDYtNjlkYS00OGNiLWE4ZDgtMTgzNmQ5OGMzYmU3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true&pageName=e1cb589993fade16871c)
 
-![Opening](images/Opening.png)
 
 ![Welcome](images/Welcome.png)
 
